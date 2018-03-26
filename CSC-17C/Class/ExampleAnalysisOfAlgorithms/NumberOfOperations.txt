@@ -1,0 +1,47 @@
+Had Duplicates
+
+Sort of array of 100
+Equality=5452
+Relation=9999
+Subtraction=99
+Additions=5148
+Logic=5352
+Composite=26050
+
+
+Size 200
+Equality=17033
+Relation=39999
+Subtraction=199
+Additions=20298
+Logic=16833
+Composite=94362
+
+
+
+No Duplicates
+
+Sort of array of 100
+Equality=7312
+Relation=9999
+Subtraction=99
+Additions=5148
+Logic=7212
+Composite=29770
+
+
+Size 200
+Equality=30479
+Relation=39999
+Subtraction=199
+Additions=20298
+Logic=30279
+Composite=121254
+
+Size of 400
+Equality=120109
+Relation=159999
+Subtraction=399
+Additions=80598
+Logic=119709
+Composite=480814
